@@ -29,4 +29,10 @@ print(places.count("Italy"))
 #sort list in ascending order
 places.sort()
 lucky_numbers.sort()
-print(lucky_numbers)
+# print(lucky_numbers)
+
+#reverse list
+lucky_numbers.reverse()
+
+#copy list
+places2 = places.copy()
